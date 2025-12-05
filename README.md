@@ -2,7 +2,7 @@
 
 A minimal Python quantum simulator with verified teleportation and multi-qubit support.  
 
-No external frameworks, no magic — just clean linear algebra and gates applied directly to statevectors.
+No external frameworks. just clean linear algebra and gates applied directly to statevectors.
 
 ---
 
@@ -28,7 +28,7 @@ Teleportation steps implemented end-to-end:
 2. Create Bell pair  
 3. Alice entangles input with her half  
 4. Measure qubits, send classical bits  
-5. Bob applies corrections — input state restored  
+5. Bob applies corrections, input state restored  
 
 ---
 
