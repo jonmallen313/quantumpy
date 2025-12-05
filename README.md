@@ -36,3 +36,4 @@ Teleportation steps implemented end-to-end:
 
 ```bash
 python3 -m quantumpy.tests.test_teleportation
+python3 -m quantumpy.tests.test_bell
